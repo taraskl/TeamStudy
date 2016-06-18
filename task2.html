@@ -12,10 +12,9 @@
     <span id="msg" style="display:none;">Раскройте прямоугольник</span>
 </div>
 
-<div id="cub" style="background:green;height:100px;width:100px;display:none;">
+<div id="cub" style="background-color:rgb(0, 128, 0);height:100px;width:100px;display:none;">
 </div>
 <div id="counter">0</div>
-
 
 <script>
 $(document).ready(function(){
@@ -34,12 +33,22 @@ $(document).ready(function(){
         if ($('#cub').css('display') == 'none') {
             $('#msg').show();
         }
+
+        var currentColor = $('#cub').css('background-color');
+        var colors = ['rgb(255, 0, 0)', 'rgb(255, 128, 0)' , 'rgb(0, 128, 0)'];
+        var index = Math.floor(Math.random() * 3);
+        var definedColor = colors[index];
+        
+         if (definedColor != currentColor) {
+            $("#cub").css({"background-color": definedColor});      
+        } else {
+            colors.splice(index, 1);
+            index = Math.floor(Math.random() * 2);
+            definedColor = colors[index];
+            $("#cub").css({"background-color": definedColor});
+        }
     });
-    $("#button2").toggle(
-        function(){$("#cub").css({"background": "red"});},
-        function(){$("#cub").css({"background": "orange"});},
-        function(){$("#cub").css({"background": "green"});}
-        );
+
 });
 </script>
 </body>
