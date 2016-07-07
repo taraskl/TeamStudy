@@ -1,10 +1,7 @@
 import requests
 
-"""
-Hotel search in expedia.com
-"""
+# Hotel search in expedia.com
 
-# const
 Link = 'http://terminal2.expedia.com/x/mhotels/'
 
 Api_key ='HjylZS1ThqOQ4eduHDjrcO4FacL9r7Bd'
