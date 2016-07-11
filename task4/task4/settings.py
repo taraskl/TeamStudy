@@ -12,6 +12,27 @@ https://docs.djangoproject.com/en/1.9/ref/settings/
 
 import os
 
+
+# ^^^ The above is required if you want to import from the celery
+# library.  If you don't have this then `from celery.schedules import`
+# becomes `proj.celery.schedules` in Python 2.x since it allows
+# for relative imports by default.
+
+# Celery settings
+
+BROKER_URL = 'amqp://guest:guest@localhost:5672//'
+CELERY_SEND_EVENTS = True
+CELERYBEAT_SCHEDULER="djcelery.schedulers.DatabaseScheduler"
+CELERY_ALWAYS_EAGER=False
+CELERY_DISABLE_RATE_LIMITS = True
+CELERY_ACCEPT_CONTENT = ['pickle']
+CELERY_TIMEZONE = 'Europe/London'
+CELERY_TASK_RESULT_EXPIRES = 60*10*300 #300 minutes = 6 hours
+CELERY_RESULT_BACKEND='djcelery.backends.database.DatabaseBackend'
+
+import djcelery
+djcelery.setup_loader()
+
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -39,6 +60,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'tur_agency',
     'taxi_service',
+    'celery_task',
+    'djcelery',
 ]
 
 MIDDLEWARE_CLASSES = [

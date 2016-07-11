@@ -18,8 +18,10 @@ from django.contrib import admin
 
 from tur_agency.views import index
 from taxi_service.views import startpage
+from celery_task.views import celery
 
 urlpatterns = [
+    url(r'^$', celery),
 	url(r'^tur_agency/', index, name='tur_agency'),
 	url(r'^taxi_service/', startpage, name='taxi_service'),
     url(r'^admin/', admin.site.urls),

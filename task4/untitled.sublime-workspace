@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "celery_task/views.py",
+			"settings":
+			{
+				"buffer_size": 206,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "task4/settings.py",
+			"settings":
+			{
+				"buffer_size": 3931,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "task4/celery.py",
+			"settings":
+			{
+				"buffer_size": 569,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "celery_task/tasks.py",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "task4/__init__.py",
+			"settings":
+			{
+				"buffer_size": 194,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "celery_task/api.py",
+			"settings":
+			{
+				"buffer_size": 845,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "task4/urls.py",
+			"settings":
+			{
+				"buffer_size": 1005,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/data/work/virtualenvs/teamstudy/src/tasks.py",
+		"/data/work/virtualenvs/teamstudy/src/task4/celery_.py",
+		"/data/work/virtualenvs/teamstudy/src/task4/celery.py",
+		"/data/work/landing page/landing_page.sublime-project",
+		"/data/work/virtualenvs/task5/src/task4/settings.py",
+		"/data/work/TeamStudy/task4/task4/settings.py",
+		"/data/work/TeamStudy/task6.py",
+		"/data/work/TeamStudy/test.py",
+		"/data/work/landing page/img.html",
+		"/data/work/landing page/static/css/css.css",
+		"/data/work/landing page/landing page.html",
+		"/home/taras/.cache/.fr-W5eEFw/responsive-full-background-image-master/responsive-full-background-image.css",
+		"/data/work/virtualenvs/task4/src/pizza_service/views.py",
+		"/data/work/virtualenvs/task4/task4.sublime-project",
+		"/data/work/TeamStudy/task3_v2/task3_v3.html",
+		"/data/work/TeamStudy/task3_v2/static/css/main.css",
+		"/home/taras/Загрузки/usc.css",
+		"/data/work/TeamStudy/task3_v2/static/css/landing.css",
+		"/data/work/TeamStudy/task3_v2/task3.html",
+		"/data/work/TeamStudy/task3/Home Basic 3 _ Unify - Responsive Website Template.html",
+		"/data/work/TeamStudy/owl.carousel.2.0.0-beta.2.4/task2_test.html",
+		"/data/exempel3/Home Basic 3 _ Unify - Responsive Website Template_files/base.js",
+		"/data/work/TeamStudy/task2_test.html",
+		"/data/test carusel.html",
+		"/data/work/TeamStudy/task3/js/owl-carousel.js",
+		"/home/taras/.cache/.fr-lVbU6K/owl.carousel.2.0.0-beta.2.4/owl.carousel.js",
+		"/data/work/TeamStudy/task3/js/owl.carousel.js",
+		"/data/work/TeamStudy/task3/Home Basic 3 _ Unify - Responsive Website Template_files/JCLAEHcIUic.html",
+		"/data/work/TeamStudy/task3/Home Basic 3 _ Unify - Responsive Website Template_files/css",
+		"/data/work/TeamStudy/task3/Home Basic 3 _ Unify - Responsive Website Template_files/player_api",
+		"/data/work/TeamStudy/task3/Home Basic 3 _ Unify - Responsive Website Template_files/watch.js",
+		"/data/work/virtualenvs/42cc/src/static/js/main.js",
+		"/data/work/virtualenvs/42cc/src/apps/hello/views.py",
+		"/data/work/virtualenvs/42cc/src/assets/js/main.js",
+		"/data/work/virtualenvs/42cc/src/42cc.sublime-project",
+		"/data/work/virtualenvs/42cc/FortyTwoTestTask/apps/hello/middleware.py",
+		"/data/work/virtualenvs/42cc/FortyTwoTestTask/fortytwo_test_task/settings/common.py",
+		"/data/work/virtualenvs/42cc/FortyTwoTestTask/fortytwo_test_task/urls.py",
+		"/data/work/virtualenvs/42cc/FortyTwoTestTask/apps/hello/admin.py",
+		"/data/work/virtualenvs/42cc/FortyTwoTestTask/apps/hello/models.py",
+		"/data/work/virtualenvs/42cc/FortyTwoTestTask/apps/hello/views.py",
+		"/data/work/virtualenvs/42cc/FortyTwoTestTask/templates/home.html",
+		"/data/work/virtualenvs/42cc/FortyTwoTestTask/assets/css/screen.css",
+		"/data/work/virtualenvs/42cc/FortyTwoTestTask/apps/__init__.py",
+		"/data/work/virtualenvs/42cc/FortyTwoTestTask/fortytwo_test_task/settings/local.py.default",
+		"/data/work/virtualenvs/ulinks/src/ulinks/settings/base.py",
+		"/data/work/virtualenvs/ulinks/src/untitled.sublime-project",
+		"/data/work/virtualenvs/ulinks/src/ulinks/urls.py",
+		"/data/work/virtualenvs/ulinks/src/templates/details.html",
+		"/data/work/virtualenvs/ulinks/src/templates/navbar.html",
+		"/data/work/virtualenvs/ulinks/src/requirments.txt",
+		"/data/work/virtualenvs/ulinks/src/ulinks/wsgi.py",
+		"/data/work/virtualenvs/ulinks/src/ulinks/settings/__init__.py",
+		"/data/work/virtualenvs/ulinks/src/ulinks/settings/production.py",
+		"/data/work/virtualenvs/ulinks/src/ulinks/settings/local.py",
+		"/data/work/virtualenvs/ulinks/src/ulinks/settings.py",
+		"/data/work/virtualenvs/ulinks/src/templates/home.html",
+		"/data/work/virtualenvs/ulinks/src/links/views.py",
+		"/data/work/virtualenvs/ulinks/src/templates/add.html",
+		"/data/work/virtualenvs/ulinks/src/templates/base.html",
+		"/data/work/virtualenvs/ulinks/src/links/admin.py",
+		"/data/work/virtualenvs/ulinks/src/links/models.py",
+		"/data/work/virtualenvs/ulinks/src/links/forms.py",
+		"/data/work/virtualenvs/ulinks/src/untitled",
+		"/data/work/virtualenvs/studentsdb/src/students/util.py",
+		"/data/work/virtualenvs/studentsdb/src/students/context_processors.py",
+		"/data/work/virtualenvs/studentsdb/src/students/views/journal.py",
+		"/data/work/virtualenvs/studentsdb/src/students/modelss.txt",
+		"/data/work/virtualenvs/studentsdb/src/myproject/settings.py",
+		"/data/work/virtualenvs/studentsdb/src/myprojekt/settings.py",
+		"/data/work/virtualenvs/studentsdb/untitled.sublime-project",
+		"/data/work/virtualenvs/studentsdb/src/students/views/students.py",
+		"/data/work/virtualenvs/lwc/src/joins/views.py",
+		"/data/work/virtualenvs/lwc/src/lwc/views.py",
+		"/data/work/virtualenvs/trydjango18/static_env/static_root/css/navbar-static-top.css",
+		"/data/work/virtualenvs/studentsdb/src/myprojekt/students/templates/students/students_add.html",
+		"/data/work/virtualenvs/studentsdb/src/myprojekt/students/views/students.py",
+		"/data/work/virtualenvs/studentsdb/src/myprojekt/students/models/Student.py",
+		"/home/taras/Рабочий стол/vpodoba/Django_Recommended (2)/Django_Recommended/Code/chapter8_forms/studentsdb/settings.py",
+		"/media/taras/D2D83A4ED83A30D9/virtenvs/django_project1/src/myprojekt/students/views/students.py",
+		"/media/taras/D2D83A4ED83A30D9/virtenvs/django_project1/src/myprojekt/myprojekt/urls.py",
+		"/data/work/virtualenvs/studentsdb/src/myprojekt/students/modelss.py",
+		"/data/work/virtualenvs/studentsdb/src/myprojekt/students/templates/students/students_list.html",
+		"/data/work/virtualenvs/studentsdb/src/myprojekt/students/admin.py",
+		"/data/work/virtualenvs/studentsdb/src/myprojekt/students/templates/students/base.html",
+		"/home/taras/Загрузки/Sublime Text 2/sublime_plugin.py",
+		"/home/taras/Загрузки/Sublime Text 2/PackageSetup.pyc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"admin\n\nadmin",
+			"map-img",
+			"map-im",
+			"hw3",
+			"/hw3",
+			"/static",
+			"fontawesome",
+			"\njquery",
+			"cast_sender\nowl-carousel-v5\nowl-carouse\npkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender\npkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js",
+			"jpg",
+			"Home Basic 3 _ Unify - Responsive Website Template_files",
+			"free foo",
+			"footg",
+			"foot",
+			"footg",
+			"=\"/\">\n",
+			"birthday",
+			"myprojekt\n\nmyp",
+			"myprojekt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "celery_task/views.py",
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "task4/settings.py",
+					"settings":
+					{
+						"buffer_size": 3931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1010,
+								1010
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "task4/celery.py",
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "celery_task/tasks.py",
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "task4/__init__.py",
+					"settings":
+					{
+						"buffer_size": 194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "celery_task/api.py",
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "task4/urls.py",
+					"settings":
+					{
+						"buffer_size": 1005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								850,
+								850
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/data/work/virtualenvs/studentsdb/src/myprojekt/students/templates/students/students_add.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true
+}
